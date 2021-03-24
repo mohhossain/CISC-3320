@@ -1,7 +1,6 @@
 # CISC-3320
-
-                                                                             <h1>PID Manager</h1>
-                                                                         <h3>By Mohammad Hossain</h3>
+<h1 style="text-align: center">PID Manager</h1>
+<h3>By Mohammad Hossain</h3>
 
 Purpose: An operating system’s pid manager is responsible for managing process identifiers. 
 When a process is first created, it is assigned a unique pid by the pid manager. The pid is 
